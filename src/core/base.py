@@ -1,5 +1,6 @@
 
 from safi.core import Connector
+from core.security import SAFISessionToken
 
 
 class BaseServices():
